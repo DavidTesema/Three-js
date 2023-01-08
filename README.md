@@ -1,30 +1,3 @@
-# Project Title
-
-A brief description of your project.
-
-## Technologies Used
-
-- three.js
-
-## Getting Started
-
-Instructions for how to set up the development environment and run the project on a local machine.
-
-## Usage
-
-Information about how to use the project, including any relevant instructions and examples.
-
-## Contributing
-
-If you want others to contribute to the project, include instructions for how to do so.
-
-## Credits
-
-- List any individuals or resources that you used in creating the project.
-
-## License
-
-Include information about the license for the project.
 
 # Getting Started with Create React App
 
